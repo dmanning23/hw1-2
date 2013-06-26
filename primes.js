@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-var fs = require('fs');
+var fs = require('fs'); 
 
 //initialize the array to hole prime numbers
 var primeNumbers = new Array();
